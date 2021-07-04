@@ -1,0 +1,7 @@
+NAMA : Alfan Nurahmadi
+
+NIM : 20200040009
+
+KELAS : TI 20 A reguller
+
+implementasi file txt menjadi enkripsi menggunakan metode Hill cipher
